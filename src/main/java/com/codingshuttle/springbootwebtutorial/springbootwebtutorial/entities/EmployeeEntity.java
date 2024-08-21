@@ -25,4 +25,8 @@ public class EmployeeEntity {
     private Boolean isActive;
     private String role;
     private Double salary;
+
+    public void setId(Long employeeId) {
+
+    }
 }
